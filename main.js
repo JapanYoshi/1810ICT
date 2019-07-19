@@ -1,1 +1,1 @@
-console.log("Lorem Ipsum Dolor Sit Amet");
+console.log("Lorem Ipsum Dolor Sit Amet " + (5 + 10));
